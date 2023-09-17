@@ -1,0 +1,22 @@
+ div{
+    color: rgb(5, 60, 3);
+ }
+ 
+ h2,h3{
+    color: red;
+}
+h3{
+    font-style: italic;
+}
+.li4{
+font-style: italic;
+text-decoration: underline;
+}
+.ul1{
+    letter-spacing: 6px;
+}
+.p{
+    font-weight: lighter;
+    
+    color: rgb(68, 4, 4);
+}
